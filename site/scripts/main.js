@@ -1,3 +1,4 @@
+/* No longer in use. Moved to gallery page via script tags 2015 Feb 12 */
 var _malaika = _malaika || {};
 
 _malaika['main'] = (function($){
