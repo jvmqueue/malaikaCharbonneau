@@ -1,5 +1,6 @@
 // Reference: http://www.jacklmoore.com/colorbox/example1/
-(function(w, d, $){
+var malaika = malaika || {};
+malaika.gallery = (function(w, d, $){
 	$(function(){
 		var node = {
 			copyright:function(){
@@ -223,4 +224,13 @@
 			}
 		}); // End getData
 	}); // End DOM ready
+	
+	var _gruntTest = function(){
+
+	};
+
+
+	return{
+		gruntTest:_gruntTest
+	};
 })(window, document, jQuery);
