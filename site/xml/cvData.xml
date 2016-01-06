@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<titles>
+	<group title="education">
+		<row>
+			<date>2004 - 2008</date>
+			<location>Emily Carr University</location>
+			<city>Vancouver, BC</city>
+			<task>BFA Visual Arts</task>		
+		</row>
+		<row>
+			<date>2002 - 2003</date>
+			<location>South Dakota State University</location>
+			<city>Brookings, SD</city>
+			<task>Visual Arts</task>		
+		</row>
+		<row>
+			<date>2001 - 2002</date>
+			<location>Dalhousie University</location>
+			<city>Halifax, NS</city>
+			<task>Architecture</task>		
+		</row>
+		<row>
+			<date>1999 - 2000</date>
+			<location>Pacific Design Academy</location>
+			<city>Victoria, BC</city>
+			<task>Diploma in Architectural Technology</task>		
+		</row>
+	</group>
+	<group title="prizes">
+		<row>
+			<date>2002</date>
+			<location>South Dakota State University</location>
+			<city>Brookings, SD</city>
+			<task>Dean's list</task>		
+		</row>
+	</group>	
+	<group title="commissions">
+		<row>
+			<date>2012</date>
+			<location>ICR</location>
+			<city>Saskatoon, SK</city>
+			<task>Paintings commissioned</task>		
+		</row>				
+		<row>
+			<date>2012</date>
+			<location>El Paso University Hospital</location>
+			<city>El Paso, TX</city>
+			<task>Paintings commissioned</task>		
+		</row>				
+		<row>
+			<date>2012</date>
+			<location>Private</location>
+			<city>Saskatoon, SK</city>
+			<task>Paintings commissioned</task>		
+		</row>				
+		<row>
+			<date>2012</date>
+			<location>Private Collector</location>
+			<city>Saskatoon, SK</city>
+			<task>Paintings commissioned</task>		
+		</row>				
+		<row>
+			<date>2011</date>
+			<location>Private</location>
+			<city>Saskatoon, SK</city>
+			<task>Paintings commissioned</task>		
+		</row>				
+		<row>
+			<date>2011</date>
+			<location>Private</location>
+			<city>Saskatoon, SK</city>
+			<task>Paintings commissioned</task>		
+		</row>				
+		<row>
+			<date>2010</date>
+			<location>Private</location>
+			<city>El Paso, TX</city>
+			<task>Paintings commissioned</task>		
+		</row>				
+		<row>
+			<date>2009</date>
+			<location>Private Collector</location>
+			<city>Ottawa, ON</city>
+			<task>Paintings commissioned</task>		
+		</row>				
+		<row>
+			<date>2008</date>
+			<location>Private</location>
+			<city>Saskatoon, SK</city>
+			<task>Paintings commissioned</task>		
+		</row>				
+		<row>
+			<date>2007</date>
+			<location>Private</location>
+			<city>Vancouver, BC</city>
+			<task>Paintings commissioned</task>		
+		</row>				
+		<row>
+			<date>2001</date>
+			<location>Private</location>
+			<city>Watertown, SD</city>
+			<task>Paintings commissioned</task>		
+		</row>				
+		<row>
+			<date>2000</date>
+			<location>Udder Bar</location>
+			<city>Henry, SD</city>
+			<task>Paintings commissioned</task>		
+		</row>
+		<row>
+			<date>2000</date>
+			<location>Trendy's Bar and Grill</location>
+			<city>Watertown, SD</city>
+			<task>Paintings commissioned</task>		
+		</row>
+	</group>	
+	<group title="solo exhibitions">
+		<row>
+			<date>2010</date>
+			<location>Collector's Choice Art Galley</location>
+			<city>Saskatoon, SK</city>
+			<task>&#34;New Works&#34;</task>		
+		</row>
+		<row>
+			<date>2009</date>
+			<location>The Stall Gallery</location>
+			<city>Saskatoon, SK</city>
+			<task>&#34;Cities and Conversations&#34;</task>		
+		</row>
+	</group>
+	<group title="group exhibitions">
+		<row>
+			<date>2014</date>
+			<location>Area Lifestyles</location>
+			<city>Saskatoon, SK</city>
+			<task>&#160;</task>		
+		</row>
+		<row>
+			<date>2014</date>
+			<location>Toronto Art Expo</location>
+			<city>Toronto, Ontario</city>
+			<task>Represented by Stall Gallery</task>		
+		</row>		
+		<row>
+			<date>2014</date>
+			<location>SaskArt &#34;Saskatchewan&#34;</location>
+			<city>Scottsdale Arizona</city>
+			<task>Represented by Collector's Choice &#38; Stall Gallery</task>		
+		</row>
+		<row>
+			<date>2010</date>
+			<location>Preston Contemporary Art Center</location>
+			<city>Mesilla, NM</city>
+			<task>&#34;Winter Exhibition&#34;</task>		
+		</row>
+		<row>
+			<date>2009</date>
+			<location>Collector's Choice Art Gallery</location>
+			<city>Saskatoon, SK</city>
+			<task>&#160;</task>		
+		</row>
+		<row>
+			<date>2009</date>
+			<location>Biennale Chianciano</location>
+			<city>Tuscany, Italy</city>
+			<task>&#160;</task>		
+		</row>
+		<row>
+			<date>2008</date>
+			<location>The Stall Gallery</location>
+			<city>Saskatoon, SK</city>
+			<task>&#34;Christmas Show&#34;</task>		
+		</row>
+		<row>
+			<date>2008</date>
+			<location>The Stall Gallery</location>
+			<city>Saskatoon, SK</city>
+			<task>&#34;Zero Eight Thrice&#34;</task>		
+		</row>
+		<row>
+			<date>2008</date>
+			<location>Collector's Choice Art Gallery</location>
+			<city>Saskatoon, SK</city>
+			<task>&#160;</task>		
+		</row>
+		<row>
+			<date>2001</date>
+			<location>Art Walk</location>
+			<city>Watertown, SD</city>
+			<task>&#160;</task>		
+		</row>												
+	</group>
+	<group title="permanent collection">
+		<row>
+			<date>2011</date>
+			<location>El Paso University Hospital</location>
+			<city>El Paso, TX</city>
+			<task>&#34;El Paso&#34; &#38; &#34;1984&#34;</task>		
+		</row>												
+	</group>	
+	
+	<group title="donations">
+		<row>
+			<date>2011</date>
+			<location>Women's Mid Life Health Dinner and Art Auction</location>
+			<city>Saskatoon, SK</city>
+			<task>Art Donated</task>		
+		</row>
+		<row>
+			<date>2010</date>
+			<location>Women's Health Dinner and Art Auction</location>
+			<city>Sasaktoon, SK</city>
+			<task>Art Donated</task>		
+		</row>		
+		<row>
+			<date>2009</date>
+			<location>Women's Health Dinner and Art Auction</location>
+			<city>Sasaktoon, SK</city>
+			<task>Art Donated</task>		
+		</row>
+		<row>
+			<date>2008</date>
+			<location>Women's Health Dinner and Art Auction</location>
+			<city>Sasaktoon, SK</city>
+			<task>Art Donated</task>		
+		</row>	
+	</group>		
+	<group title="publications and press">
+		<row>
+			<date>2010</date>
+			<location>Cities and Conversations at the Stall</location>
+			<city>bartgazzola.com/aword</city>
+			<task>Bart Gazzola</task>		
+		</row>
+		<row>
+			<date>2010</date>
+			<location>International Contemporary Master IV</location>
+			<city>World Wide Art Books, CA</city>
+			<task>Despina Tunberg</task>		
+		</row>
+		<row>
+			<date>2010</date>
+			<location>New Exhibit at Preston Gallery</location>
+			<city>Las Cruces Sun, NM</city>
+			<task>S. Derrickson Moore</task>		
+		</row>
+		<row>
+			<date>2010</date>
+			<location>Ex El Pasoan takes Art to Preston</location>
+			<city>El Paso Times, TX</city>
+			<task>Doug Pullen</task>		
+		</row>		
+		<row>
+			<date>2009</date>
+			<location>The A word Radio Interview</location>
+			<city>CFCR90.5, Saskatoon, SK</city>
+			<task>Bart Gazzola, MFA</task>		
+		</row>
+		<row>
+			<date>2009</date>
+			<location>Shortcuts Television Interview</location>
+			<city>Global TV, Saskatoon, SK</city>
+			<task>Colleen Wilson</task>		
+		</row>	
+	</group>		
+	<group title="private collections">
+		<row>
+			<date>&#160;</date>
+			<location>&#160;</location>
+			<city>&#160;</city>
+			<task>Canada</task>		
+		</row>					<row>
+			<date>&#160;</date>
+			<location>&#160;</location>
+			<city>&#160;</city>
+			<task>United States</task>		
+		</row>			
+		<row>
+			<date>&#160;</date>
+			<location>&#160;</location>
+			<city>&#160;</city>
+			<task>England</task>		
+		</row>			
+		<row>
+			<date>&#160;</date>
+			<location>&#160;</location>
+			<city>&#160;</city>
+			<task>Germany</task>		
+		</row>			
+	</group>
+	<group title="volunteer">
+		<row>
+			<date>2014</date>
+			<location>Saskatchewan Professional Art Galleries Association</location>
+			<city>Scottsdale, AZ</city>
+			<task>Art Courier</task>		
+		</row>
+		<row>
+			<date>2011</date>
+			<location>&#160;</location>
+			<city>&#160;</city>
+			<task>Women&#039;s Mid LIfe Health Dinner &#38; Art Auction &#8211; Saskatoon, SK - Photographer</task>
+		</row>
+		<row>
+			<date>2010</date>
+			<location>&#160;</location>
+			<city>&#160;</city>
+			<task>Women&#039;s Mid LIfe Health Dinner &#38; Art Auction &#8211; Saskatoon, SK - Photographer</task>
+		</row>
+		<row>
+			<date>2009</date>
+			<location>&#160;</location>
+			<city>&#160;</city>
+			<task>Women&#039;s Mid LIfe Health Dinner &#38; Art Auction &#8211; Saskatoon, SK - Photographer</task>
+		</row>		
+	</group>		
+</titles>

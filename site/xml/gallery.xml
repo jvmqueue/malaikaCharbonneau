@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<canvases>
+	<file base="./images/">&#160;</file>
+	<copyright>
+		<image path="copyright.gif"></image>
+		<text>
+			<line0 color="" fontSize="" fontFamily="" padding="">Copyright 2011</line0>
+			<line1 color="" fontSize="" fontFamily="" padding="">Malaika Z. Charbonneau</line1>
+		</text>
+		<mask path="copyrightmask.png">&#160;</mask>	
+	</copyright>
+	<window left="300px" top="10px" width="660px" height="660px" isOpened="false">&#160;</window>
+	<container nodeId="contentContainer" imageContainer="a">&#160;</container>		
+	<canvas isSold="false">
+		<title>Block 5</title>
+		<date>2015</date>
+		<swatch>block5_2016Jan05Bkgrd.jpg</swatch>
+		<fileName>block5_2016Jan05.jpg</fileName>
+		<media>Gold Leaf and Acrylic on Canvas</media>
+		<dimension width="15" height="30">&#160;</dimension>
+	</canvas>	
+	<canvas isSold="false">
+		<title>Dragon</title>
+		<date>2015</date>
+		<swatch>dragon2016Jan05Bkgrd.jpg</swatch>
+		<fileName>dragon2016Jan05.jpg</fileName>
+		<media>Gold Leaf and Acrylic on Canvas</media>
+		<dimension width="15" height="30">&#160;</dimension>
+	</canvas>	
+	<canvas isSold="false">
+		<title>Orgy</title>
+		<date>2015</date>
+		<swatch>Orgy2016Jan05Bkgrd.jpg</swatch>
+		<fileName>Orgy2016Jan05.jpg</fileName>
+		<media>Acrylic on Canvas</media>
+		<dimension width="30" height="30">&#160;</dimension>
+	</canvas>	
+	<canvas isSold="false">
+		<title>Path to Wawel</title>
+		<date>2015</date>
+		<swatch>PathToWawel2016Jan02Bkgrd.jpg</swatch>
+		<fileName>PathToWawel2016Jan02.jpg</fileName>
+		<media>Gold Leaf and Acrylic on Canvas</media>
+		<dimension width="24" height="36">&#160;</dimension>
+	</canvas>	
+	<canvas isSold="false">
+		<title>Poland</title>
+		<date>2015</date>
+		<swatch>poland2016Jan05Bkgrd.jpg</swatch>
+		<fileName>poland2016Jan05.jpg</fileName>
+		<media>Gold Leaf and Acrylic on Canvas</media>
+		<dimension width="60" height="60">&#160;</dimension>
+	</canvas>	
+	<canvas isSold="false">
+		<title>Polish Eggs</title>
+		<date>2015</date>
+		<swatch>polishEggs2016Jan05Bkgrd.jpg</swatch>
+		<fileName>polishEggs2016Jan05.jpg</fileName>
+		<media>Acrylic on Canvas</media>
+		<dimension width="30" height="30">&#160;</dimension>
+	</canvas>	
+	<canvas isSold="false">
+		<title>Rebuilt</title>
+		<date>2015</date>
+		<swatch>rebuilt2016Jan05Bkgrd.jpg</swatch>
+		<fileName>rebuilt2016Jan05.jpg</fileName>
+		<media>Masking Tape</media>
+		<dimension width="12" height="24">&#160;</dimension>
+	</canvas>	
+	<canvas isSold="true">
+		<title>Tosia and Olek</title>
+		<date>2015</date>
+		<swatch>tosiaAndOlek2016Jan05Bkgrd.jpg</swatch>
+		<fileName>tosiaAndOlek2016Jan05.jpg</fileName>
+		<media>Gold Leaf and Acrylic on Canvas</media>
+		<dimension width="24" height="60">&#160;</dimension>
+	</canvas>			
+	<canvas isSold="false">
+		<title>Track</title>
+		<date>2015</date>
+		<swatch>track2016Jan05Bkgrd.jpg</swatch>
+		<fileName>track2016Jan05.jpg</fileName>
+		<media>Gold Leaf and Acrylic on Canvas</media>
+		<dimension width="24" height="48">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="false">
+		<title>Trumpeter of Krakow</title>
+		<date>2015</date>
+		<swatch>trumpeterOfKrakow2016Jan05Bkgrd.jpg</swatch>
+		<fileName>trumpeterOfKrakow2016Jan05.jpg</fileName>
+		<media>Gold Leaf and Acrylic on Canvas</media>
+		<dimension width="15" height="30">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="false">
+		<title>Westerplatte</title>
+		<date>2015</date>
+		<swatch>westerplatte2016Jan05Bkgrd.jpg</swatch>
+		<fileName>westerplatte2016Jan05.jpg</fileName>
+		<media>Acrylic on Canvas</media>
+		<dimension width="15" height="30">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="false">
+		<title>The Track</title>
+		<date>2015</date>
+		<swatch>TheTrack2015Jan26Bkgrd.jpg</swatch>
+		<fileName>TheTrack2015Jan26.jpg</fileName>
+		<media>Gold Leaf and Acrylic on canvas</media>
+		<dimension width="24" height="48">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="false">
+		<title>Caroline</title>
+		<date>2015</date>
+		<swatch>Caroline2015Jan26Bkgrd.jpg</swatch>
+		<fileName>Caroline2015Jan26.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="30" height="60">&#160;</dimension>
+	</canvas>	
+	<canvas isSold="true">
+		<title>Krakowiak</title>
+		<date>2007</date>
+		<swatch>05krawkow2008ddBkgrd.jpg</swatch>
+		<fileName>05krawkow2008dd.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="36" height="36">&#160;</dimension>
+	</canvas>
+	<canvas isSold="true">
+		<title>Mazurka</title>
+		<date>2007</date>
+		<swatch>08mazurkaBkgrd.jpg</swatch>
+		<fileName>08mazurka.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="36" height="36">&#160;</dimension>
+	</canvas>	
+	<canvas isSold="true">
+		<title>Johnny</title>
+		<date>2008</date>
+		<swatch>11theconversationalist2008Bkgrd.jpg</swatch>
+		<fileName>11theconversationalist2008.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="24" height="60">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>Lee and Stanley</title>
+		<date>2008</date>
+		<swatch>01Stanley2008Bkgrd.jpg</swatch>
+		<fileName>01Stanley2008.jpg</fileName>
+		<media>Canvas</media>
+		<dimension width="36" height="36">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>Anchorage</title>
+		<date>2007</date>
+		<swatch>10Anchorage2007Bkgrd.jpg</swatch>
+		<fileName>10Anchorage2007.jpg</fileName>
+		<media>Canvas</media>
+		<dimension width="30" height="30">&#160;</dimension>
+	</canvas>
+	<canvas isSold="true">
+		<title>London</title>
+		<date>2006</date>
+		<swatch>london2008Aug07Bkgrd.jpg</swatch>
+		<fileName>london2008Aug07.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="48" height="48">&#160;</dimension>
+	</canvas>
+	<canvas isSold="true">
+		<title>God and Adam</title>
+		<date>2008</date>
+		<swatch>17godadam2008Bkgrd.jpg</swatch>
+		<fileName>17godadam2008.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="24" height="48">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>Southpaw</title>
+		<date>2008</date>
+		<swatch>02SouthpawBkgrd.jpg</swatch>
+		<fileName>02Southpaw.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="30" height="60">&#160;</dimension>
+	</canvas>
+	<canvas isSold="false">
+		<title>Monty</title>
+		<date>2008</date>
+		<swatch>16monty2008Bkgrd.jpg</swatch>
+		<fileName>16monty2008.jpg</fileName>
+		<media>Acrylic and gold leaf on canvas</media>
+		<dimension width="24" height="24">&#160;</dimension>
+	</canvas>
+	<canvas isSold="true">
+		<title>Mark and Ryan</title>
+		<date>2008</date>
+		<swatch>09markryan2008Bkgrd.jpg</swatch>
+		<fileName>09markryan2008.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="24" height="24">&#160;</dimension>
+	</canvas>
+	<canvas isSold="true">
+		<title>Paris</title>
+		<date>2006</date>
+		<swatch>01paris2006Bkgrd.jpg</swatch>
+		<fileName>01paris2006.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="48" height="48">&#160;</dimension>
+	</canvas>
+	<canvas isSold="true">
+		<title>Jezebel</title>
+		<date>2008</date>
+		<swatch>jezebel2008Bkgrd.jpg</swatch>
+		<fileName>jezebel2008.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="18" height="36">&#160;</dimension>
+	</canvas>
+	<canvas isSold="true">
+		<title>Paul and Susie</title>
+		<date>2008</date>
+		<swatch>10paulsusie2008Bkgrd.jpg</swatch>
+		<fileName>10paulsusie2008.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="24" height="24">&#160;</dimension>
+	</canvas>	
+	<canvas isSold="true">
+		<title>Las Vegas</title>
+		<date>2006</date>
+		<swatch>04lasvegas2006Bkgrd.jpg</swatch>
+		<fileName>04lasvegas2006.jpg</fileName>
+		<media>Acrylic and gold leaf on canvas</media>
+		<dimension width="48" height="48">&#160;</dimension>
+	</canvas>	
+	<canvas isSold="false">
+		<title>Montreal</title>
+		<date>2007</date>
+		<swatch>07montreal2006ssBkgrd.jpg</swatch>
+		<fileName>07montreal2006ss.jpg</fileName>
+		<media>Acrylic and map on canvas</media>
+		<dimension width="48" height="48">&#160;</dimension>
+	</canvas>	
+	<canvas isSold="true">
+		<title>Jericho</title>
+		<date>2008</date>
+		<swatch>yukon2008May13Bkgrd.jpg</swatch>
+		<fileName>yukon2008May13.jpg</fileName>
+		<media>Acrylic and Epoxy on canvas</media>
+		<dimension width="24" height="24">&#160;</dimension>
+	</canvas>	
+	<canvas isSold="true">
+		<title>El Paso</title>
+		<date>2006 - 2008</date>
+		<swatch>elpaso2008July04Bkgrd.jpg</swatch>
+		<fileName>elpaso2008July04.jpg</fileName>
+		<media>Acrylic and map on canvas</media>
+		<dimension width="48" height="48">&#160;</dimension>
+	</canvas>	
+	<canvas isSold="true">
+		<title>Kitsilano</title>
+		<date>2008</date>
+		<swatch>kitsilano2008July04Bkgrd.jpg</swatch>
+		<fileName>kitsilano2008July04.jpg</fileName>
+		<media>Acrylic and map on canvas</media>
+		<dimension width="36" height="36">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>Nassau</title>
+		<date>2008</date>
+		<swatch>nassau2008Aug07Bkgrd.jpg</swatch>
+		<fileName>nassau2008Aug07.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="36" height="36">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="false">
+		<title>Black and White Nude</title>
+		<date>2006</date>
+		<swatch>BlackAndWhiteNude2008Aug07Bkgrd.jpg</swatch>
+		<fileName>BlackAndWhiteNude2008Aug07.jpg</fileName>
+		<media>Print Only</media>
+		<dimension width="12" height="18">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="false">
+		<title>Yellow Nude</title>
+		<date>2006</date>
+		<swatch>YellowNude2008Aug07Bkgrd.jpg</swatch>
+		<fileName>YellowNude2008Aug07.jpg</fileName>
+		<media>Acrylic on wood</media>
+		<dimension width="18" height="24">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="false">
+		<title>Purple Nude</title>
+		<date>2006</date>
+		<swatch>PurpleNude2008Aug07Bkgrd.jpg</swatch>
+		<fileName>PurpleNude2008Aug07.jpg</fileName>
+		<media>Acrylic and paper on canvas</media>
+		<dimension width="12" height="12">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>Thirty Three Birch Trees</title>
+		<date>2008</date>
+		<swatch>thirtyThreeBirchTree2008SepBkgrd.jpg</swatch>
+		<fileName>thirtyThreeBirchTree2008Sep15.jpg</fileName>
+		<media>Acrylic on Panel</media>
+		<dimension width="36" height="36">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>George</title>
+		<date>2008</date>
+		<swatch>georgeInSpace2008Sept18Bkgrd.jpg</swatch>
+		<fileName>georgeInSpace2008Sept18.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="36" height="72">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>Michele</title>
+		<date>2008</date>
+		<swatch>michele2008Aug07Bkgrd.jpg</swatch>
+		<fileName>michele2008Aug07.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="24" height="60">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>3-Decades</title>
+		<date>2008</date>
+		<swatch>threeDecades2008Nov23Bkgrd.jpg</swatch>
+		<fileName>threeDecades2008Nov23.jpg</fileName>
+		<media>Mixed media on canvas</media>
+		<dimension width="24" height="24">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>Dorian Gray</title>
+		<date>2008</date>
+		<swatch>dorianGray2008Nov23Bkgrd.jpg</swatch>
+		<fileName>dorianGray2008Nov23.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="42" height="42">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>Victoria</title>
+		<date>2008</date>
+		<swatch>victoria2008Bkgrd.jpg</swatch>
+		<fileName>victoria2008.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="42" height="42">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>Sante Fe</title>
+		<date>2008</date>
+		<swatch>santaFe2008Bkgrd.jpg</swatch>
+		<fileName>santaFe2008.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="30" height="30">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>Kaz and Ad</title>
+		<date>2009</date>
+		<swatch>KazimirAndAd2009Mar22Bkgrd.jpg</swatch>
+		<fileName>KazimirAndAd2009Mar22.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="24" height="48">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>Robbie</title>
+		<date>2009</date>
+		<swatch>robbie1Bkgrd.jpg</swatch>
+		<fileName>robbie1.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="24" height="24">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="false">
+		<title>Drops</title>
+		<date>2009</date>
+		<swatch>drops2009Sept25Bkgrd.jpg</swatch>
+		<fileName>drops2009Sept25.jpg</fileName>
+		<media>Acrylic and Oil on canvas</media>
+		<dimension width="36" height="36">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>Pablo And Patty</title>
+		<date>2009</date>
+		<swatch>PabloAndPatty2011Jun09Bkgrd.jpg</swatch>
+		<fileName>PabloAndPatty2011Jun09.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="24" height="60">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>CICI</title>
+		<date>2009</date>
+		<swatch>Cici2011Jun09Bkgrd.jpg</swatch>
+		<fileName>Cici2011Jun09.jpg</fileName>
+		<media>Acrylic and Mixed Media on canvas</media>
+		<dimension width="36" height="36">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>Adam and God</title>
+		<date>2010</date>
+		<swatch>adam2010Dec03Bkgrd.jpg</swatch>
+		<fileName>adam2010Dec03.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="36" height="60">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>Chicago</title>
+		<date>2010</date>
+		<swatch>Chicago2011Jun09Bkgrd.jpg</swatch>
+		<fileName>Chicago2011Jun09.jpg</fileName>
+		<media>Mixed Media on panel</media>
+		<dimension width="42" height="42">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>False Creek</title>
+		<date>2010</date>
+		<swatch>FalseCreek2011Jun09Bkgrd.jpg</swatch>
+		<fileName>FalseCreek2011Jun09.jpg</fileName>
+		<media>Mixed Media on panel</media>
+		<dimension width="42" height="42">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>Allumette Island</title>
+		<date>2010</date>
+		<swatch>AllumetteIsland2010Mar15Bkgrd.jpg</swatch>
+		<fileName>AllumetteIsland2010Mar15.jpg</fileName>
+		<media>Mixed Media on canvas</media>
+		<dimension width="2" height="2">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="false">
+		<title>Mary</title>
+		<date>2010</date>
+		<swatch>mary2011Jun09Bkgrd.jpg</swatch>
+		<fileName>mary2011Jun09.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="30" height="72">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="false">
+		<title>Anthony</title>
+		<date>&#160;</date>
+		<swatch>anthony2011Jun09Bkgrd.jpg</swatch>
+		<fileName>anthony2011Jun09.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="30" height="72">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="false">
+		<title>Utah</title>
+		<date>&#160;</date>
+		<swatch>utah2011Jun09Bkgrd.jpg</swatch>
+		<fileName>utah2011Jun09.jpg</fileName>
+		<media>Acrylic on canvas</media>
+		<dimension width="30" height="72">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>The Boys</title>
+		<date>2010</date>
+		<swatch>theBoysWeb2011Mar02Bkgrd.jpg</swatch>
+		<fileName>theBoysWeb2011Mar02.jpg</fileName>
+		<media>Mixed Media on Canvas</media>
+		<dimension width="24" height="60">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="false">
+		<title>Minis Samples</title>
+		<date>&#160;</date>
+		<swatch>miniSamplesWeb2011Mar02Bkgrd.jpg</swatch>
+		<fileName>miniSamplesWeb2011Mar02.jpg</fileName>
+		<media>&#160;</media>
+		<dimension width="''" height="''">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>DC3</title>
+		<date>2011</date>
+		<swatch>dc3Web2011Jun09Bkgrd.jpg</swatch>
+		<fileName>dc3Web2011Jun09.jpg</fileName>
+		<media>Mixed Media on Canvas</media>
+		<dimension width="12" height="12">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>DC2</title>
+		<date>2011</date>
+		<swatch>dc2Web2011Jun09Bkgrd.jpg</swatch>
+		<fileName>dc2Web2011Jun09.jpg</fileName>
+		<media>Mixed Media on Canvas</media>
+		<dimension width="12" height="12">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>DC1</title>
+		<date>2011</date>
+		<swatch>dc1Web2011Jun09Bkgrd.jpg</swatch>
+		<fileName>dc2Web2011Jun09.jpg</fileName>
+		<media>Mixed Media on Canvas</media>
+		<dimension width="24" height="24">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>Berger's Boys</title>
+		<date>2011</date>
+		<swatch>bergersBoysWeb2011Mar02Bkgrd.jpg</swatch>
+		<fileName>bergersBoysWeb2011Mar02.jpg</fileName>
+		<media>Acrylic on Canvas</media>
+		<dimension width="24" height="60">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>Helusha</title>
+		<date>2011</date>
+		<swatch>helusha2011Jun09Bkgrd.jpg</swatch>
+		<fileName>helusha2011Jun09.jpg</fileName>
+		<media>Acrylic on Canvas</media>
+		<dimension width="12" height="24">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="true">
+		<title>Isaac</title>
+		<date>&#160;</date>
+		<swatch>isaac2009Aug09Bkgrd.jpg</swatch>
+		<fileName>isaac2009Aug09.jpg</fileName>
+		<media>Acrylic and Mixed Media on canvas</media>
+		<dimension width="24" height="60">&#160;</dimension>
+	</canvas>
+	<canvas isSold="true">
+		<title>Saskatoon Skyline</title>
+		<date>2011</date>
+		<swatch>saskatoonSkyline2012May25Bkgrd.jpg</swatch>
+		<fileName>saskatoonSkyline2012May25.jpg</fileName>
+		<media>Mixed Media on Canvas</media>
+		<dimension width="48" height="72">&#160;</dimension>
+	</canvas>
+	<canvas isSold="false">
+		<title>Maudella</title>
+		<date>2011</date>
+		<swatch>maudella2012May25Bkgrd.jpg</swatch>
+		<fileName>maudella2012May25.jpg</fileName>
+		<media>Mixed Media</media>
+		<dimension width="36" height="36">&#160;</dimension>
+	</canvas>
+	<canvas isSold="true">
+		<title>Lee and Sian(Diptych)</title>
+		<date>Mixed Media on Canvas</date>
+		<swatch>leeAndSian2012BkgrdMay25.jpg</swatch>
+		<fileName>leeAndSian2012May25.jpg</fileName>
+		<media>Mixed Media on Canvas</media>
+		<dimension width="24" height="24">&#160;</dimension>
+	</canvas>
+	<canvas isSold="true">
+		<title>2176</title>
+		<date>2011</date>
+		<swatch>21762012May25Bkgrd.jpg</swatch>
+		<fileName>21762012May25.jpg</fileName>
+		<media>Mixed Media on Canvas</media>
+		<dimension width="24" height="36">&#160;</dimension>
+	</canvas>
+	<canvas isSold="true">
+		<title>Elm Trees</title>
+		<date>2011</date>
+		<swatch>elms2012May25Bkgrd.jpg</swatch>
+		<fileName>elms2012May25.jpg</fileName>
+		<media>Mixed Media on Canvas</media>
+		<dimension width="36" height="36">&#160;</dimension>
+	</canvas>
+	<canvas isSold="false">
+	<title>Jimmy and Pluto</title>
+		<date>2011</date>
+		<swatch>jimmyAndPluto2011Jun01Bkgrd.jpg</swatch>
+		<fileName>jimmyAndPluto2011Jun01.jpg</fileName>
+		<media>Acrylic on Canvas</media>
+		<dimension width="36" height="36">&#160;</dimension>
+	</canvas>
+	<canvas isSold="true">
+		<title>1984</title>
+		<date>2011</date>
+		<swatch>1984_2011Jun01Bkgrd.jpg</swatch>
+		<fileName>1984_2011Jun01.jpg</fileName>
+		<media>Mixed Media on Canvas</media>
+		<dimension width="48" height="48">&#160;</dimension>
+	</canvas>
+	<canvas isSold="false">
+		<title>Kelsey</title>
+		<date>2012</date>
+		<swatch>Kelsey2012Jun03Bkgrd.jpg</swatch>
+		<fileName>Kelsey2012Jun03.jpg</fileName>
+		<media>Mixed Media</media>
+		<dimension width="24" height="48">&#160;</dimension>
+	</canvas>		
+	<canvas isSold="false">
+		<title>Skulls</title>
+		<date>2012</date>
+		<swatch>skulls2012Jun28Bkgrd.jpg</swatch>
+		<fileName>skulls2012Jun28.jpg</fileName>
+		<media>Mixed Media</media>
+		<dimension width="''" height="''">&#160;</dimension>
+	</canvas>
+	<canvas isSold="false">
+		<title>1612</title>
+		<date>2011</date>
+		<swatch>1612_2012Jun28Bkgrd.jpg</swatch>
+		<fileName>1612_2012Jun28.jpg</fileName>
+		<media>Acrylic on Canvas</media>
+		<dimension width="12" height="20">&#160;</dimension>
+	</canvas>
+	<canvas isSold="false">
+		<title>Train</title>
+		<date>2012</date>
+		<swatch>train2012Jun28Bkgrd.jpg</swatch>
+		<fileName>train2012Jun28.jpg</fileName>
+		<media>Acrylic on Panel</media>
+		<dimension width="42" height="42">&#160;</dimension>
+	</canvas>
+	<canvas isSold="false">
+		<title>White</title>
+		<date>2012</date>
+		<swatch>white2012Jun28Bkgrd.jpg</swatch>
+		<fileName>white2012Jun28.jpg</fileName>
+		<media>Mixed Media (framed)</media>
+		<dimension width="24" height="60">&#160;</dimension>
+	</canvas>
+	<canvas isSold="false">
+		<title>Lost</title>
+		<date>2012</date>
+		<swatch>Lost2012Nov16Bkgrd.jpg</swatch>
+		<fileName>Lost2012Nov16.jpg</fileName>
+		<media>Acrylic on Canvas</media>
+		<dimension width="24" height="24">&#160;</dimension>
+	</canvas>
+	<canvas isSold="true">
+		<title>Millions</title>
+		<date>2012</date>
+		<swatch>millions2012Nov16Bkgrd.jpg</swatch>
+		<fileName>millions2012Nov16.jpg</fileName>
+		<media>Acrylic on Panel</media>
+		<dimension width="42" height="42">&#160;</dimension>
+	</canvas>
+	<canvas isSold="true">
+		<title>La Voie</title>
+		<date>2012</date>
+		<swatch>LaVoie2012Nov16Bkgrd.jpg</swatch>
+		<fileName>LaVoie2012Nov16.jpg</fileName>
+		<media>Acrylic on Canvas</media>
+		<dimension width="24" height="24">&#160;</dimension>
+	</canvas>
+	<canvas isSold="false">
+		<title>DC 4</title>
+		<date>2011</date>
+		<swatch>DC4_2012Nov16Bkgrd.jpg</swatch>
+		<fileName>DC4_2012Nov16.jpg</fileName>
+		<media>Mixed Media</media>
+		<dimension width="24" height="24">&#160;</dimension>
+	</canvas>
+	<canvas isSold="false">
+		<title>DC 5</title>
+		<date>2011</date>
+		<swatch>DC5_2012Nov16Bkgrd.jpg</swatch>
+		<fileName>DC5_2012Nov16.jpg</fileName>
+		<media>Mixed Media</media>
+		<dimension width="24" height="24">&#160;</dimension>
+	</canvas>					
+	<canvas isSold="false">
+		<title>Glass</title>
+		<date>2014</date>
+		<swatch>glass2014April02Bkgrd.jpg</swatch>
+		<fileName>glass2014April02.jpg</fileName>
+		<media>Acrylic on Canvas</media>
+		<dimension width="24" height="60">&#160;</dimension>
+	</canvas>					
+	<canvas isSold="false">
+		<title>Toronto</title>
+		<date>2014</date>
+		<swatch>toronto2014April02Bkgrd.jpg</swatch>
+		<fileName>toronto2014April02.jpg</fileName>
+		<media>Acrylic on Canvas</media>
+		<dimension width="36" height="36">&#160;</dimension>
+	</canvas>						
+</canvases>
